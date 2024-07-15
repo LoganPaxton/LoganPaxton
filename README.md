@@ -2,20 +2,16 @@
 
 ## 🛠️ What I'm Working On
 
-- Node.js Stuff
-- HTML Stuff
-- And more...
+- Making Operating Systems
+- Making Node.JS Packages
+- Much more...
 
 ### ✍️ Coding Languages
 
-I'm currently learning ruby, C++, and C#. (Not all at the same time lol)
-
-I currently know 
+- C#
 - Python
-- Javascript
-- HTML
-- CSS (If you count it as a language)
+- Node.JS
 
-#### Stats
+### 📊 Stats
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=loganpaxton)](https://github.com/anuraghazra/github-readme-stats)
