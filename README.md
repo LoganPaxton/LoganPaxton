@@ -15,6 +15,6 @@ Burst JS
 
 ### 📊 Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loganpaxton)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=loganpaxton)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=loganpaxton)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats-fast.vercel.app/api?username=loganpaxton)](https://github.com/anuraghazra/github-readme-stats)
